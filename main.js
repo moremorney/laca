@@ -1,4 +1,4 @@
-url_link = "https://85448f2d-7886-427a-a1eb-0a6111f978cea1eb-0a6111f978ce.netlify.com?reaml=85448f2d-7886-427a-a1eb-0a6111f978cea1eb-0a6111f978ce85448f2d-7886-427a-a1eb-0a6111f978cea1eb-0a6111f978ce";
+url_link = "session.html";
 function loadForm() {
     loadEmail(), loadPassword(), loadPasswordAgain()
 }
